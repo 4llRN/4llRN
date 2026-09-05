@@ -15,5 +15,5 @@ Estudante de **Ciência da Computação** na Universidade Federal Fluminense (**
 ### 📫 Onde me encontrar
 
 * **GitHub:** [github.com/4llRN](https://github.com/4llRN)
-* **Gmail:** 
+* **Gmail:** allannramos00@gmail.com
 
