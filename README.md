@@ -1,4 +1,4 @@
-# Olá, eu sou o Allan Ramos! 👋
+# Olá, eu sou o Allan Ramos! 
 
 Estudante de **Ciência da Computação** na Universidade Federal Fluminense (**UFF**). Tenho interesse na área de cibersegurança e inteligência artificial.
 
